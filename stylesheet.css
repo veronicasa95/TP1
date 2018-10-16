@@ -1,3 +1,51 @@
 body {
-	background-color: rgb(255,231,185);
+	font-family:'Oswald',sans-serif;
+	background-color: #ffe7b9;
+}
+.topo {
+	padding:20 px;
+}
+.linkstopo {
+	padding: 5px;
+	color:#0c0c0c;
+	text-align: left;
+}
+.topo img {
+
+}
+
+.corpo {
+	
+}
+
+p1 {
+	color: #988356;	
+	text-align: left;
+	font-weight: bold;
+}
+
+p2 {
+	color:#988356;
+	text-align: left;
+	font-weight: bold;
+}
+
+p3 {
+	color:#0c0c0c; 
+	text-align: left;
+	font-weight: normal;
+}
+p4 {
+	color:#988356;
+	text-align: left;
+	font-weight: bold;
+}
+p5 {
+	color:#0c0c0c; 
+	text-align: left;
+	font-weight: normal;
+}
+
+.rodape {
+
 }
